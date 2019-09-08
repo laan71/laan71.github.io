@@ -10,7 +10,7 @@ I look forward to learning the different code languages and getting it into the 
 ## My favorite places to learn from so far:
 
   * Teachers in class
-  * Educatinal books
+  * Textbooks
   * SoloLearning
   * Udemy
 
