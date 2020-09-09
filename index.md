@@ -3,9 +3,13 @@
 This sites main purpose is for school. I have just startet an education in Computer Science at Zealand, Naestved and I am going to use Github as a learning platform and to keep in touch with my teacher(s) and classmates :-)
 
 
+
 ![Her vises et billede af en datamatiker](https://www.durhamtech.edu/sites/default/files/images/Information-Technology-software-development-PO.jpg)
 
+
 I have 1 year of codingexperience in Java but I look forward to go deeper and get it into the backbone :-) 
+
+
 
 ## My favorite places to learn from so far:
 
@@ -19,6 +23,8 @@ I have 1 year of codingexperience in Java but I look forward to go deeper and ge
 
 
 When I am done I want to work with Computer Security or IOT and I am going to make a community for women so they will have a secure place where they don´t feel insecure because of the majority of men in IT!
+
+
 
 
 
